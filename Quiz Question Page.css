@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.body {
+    background-color: #875fc0;
+    height: 150vh;
+    background-size: cover;
+    text-align: right;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.container1 {
+    background-color: #ffffff;
+    height: 30%;
+    width: 95%;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.heading {
+    text-align: right;
+    font-family: "Roboto";
+    color: #1f2933;
+    font-size: 140%;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.paragraph {
+    text-align: center;
+    font-family: "Roboto";
+    color: #1f2933;
+}
+
+.image {
+    height: 40%;
+    width: 90%;
+    padding-right: 40px;
+    margin-bottom: 10%;
+}
+
+.container2 {
+    background-color: #ffffff;
+    height: 150%;
+    width: 95%;
+    border-radius: 10px;
+    margin: 15px;
+    margin-top: 30px;
+}
+
+.options-list {
+    height: 50%;
+    width: 100%;
+    border-radius: 15px;
+    color: #1f2933;
+    text-align: left;
+    padding: 15px;
+}
+
+.button {
+    text-align: center;
+    color: #ffffff;
+    background-color: #fbaf00;
+    border-radius: 10px;
+    height: 40px;
+    width: 80px;
+    border-width: 0px;
+
+}
